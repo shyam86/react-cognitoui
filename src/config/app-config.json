@@ -1,0 +1,14 @@
+{
+    "region": "us-west-1",
+    "userPool": "us-west-1_cE8MhMJHSZ",
+    "userPoolBaseUri": "https://testsamlr.auth.us-west-1.amazoncognito.com" ,
+    "clientId": "1pjdlemj37og1gn7k29ie85b0v",
+    "callbackUri": "https://d2gl1p5r2ky1d2.cloudfront.net/callback",
+    "signoutUri": "https://d2gl1p5r2ky1d2.cloudfront.net",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile",
+        "https://testsamlr.auth.us-west-1.amazoncognito.com"                
+    ]
+}
